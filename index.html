@@ -1,0 +1,59 @@
+<!-- https://github.com/memeee/edemProgramm -->
+<html>
+   <head>  
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">     
+	  <title>EdemTv</title>
+	  <link rel="icon" type="image/jpeg" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADh0lEQVRYR82XOUgzURDH/1ERBUWjjVfjBUKsPLARSSEiNooiWFpYaCFYCQoKnpWdgpVgo0I8CxFBsLDz6kTEA/FABEETvM/9MsO3625M9m3cF3Ag5Jr3n9+bN2/eW4fiN/wRi4o0x9LSEioqKjA+Pi4MFVGYxcVFDA0N4enpCbu7u0IY0DJFwhYWFpSSkhKluLhYqaysVI6Pj4VhwoK5uLhQDg8PhaKBIEdHR8IxXLuWvPxO9/f3Snl5Oc+WgoWy34KQnuWaiYmJQXx8PMFjeHgYVA+BRr/Rf+TjdDq5aPPy8sS1onpYzQz50brT+lMdBGbITkZUBke4febk5AStra24u7uDw+FAd3c3z8tWRv5nJmwYGhcIRL/9eml0i2iA+fj4wPX1NehdZATU09ODt7c3do2NjcXAwAByc3NFQ0H1l5aWxu9602Dm5+e54Lxer1BMhkNycjLa2trQ0NCgyTHMysoKent7ZcQIW6O/vx81NTU8jmEaGxtxenpqEMrOzkZRURGysrKQlJSEuLg4TisVLb3UOqFaoWV9eXnhrJ6fn2NnZweXl5eWwCjO7OzsN0xpaSkXIFlCQgIGBwfhb3CWxEI5ra6uoq+vD+/v76Y6NLHt7W324aanv0V0dnbaBiHN6upqtLS0CCekj23owImJiaiqqhIKWHWoq6vTllQdQ11cXeZAHQOMy+X6sd2sBg7ml5qaivT0dO0vagUbGxt8lGRkZPwYYoDJzMy0EzvoWBWGzqja2lrOCm2KpqYmcxjaNbKN+gmZz+czNNPb21tzGNq+sk3VvLm54XNsa2sLMzMzmJqaMoeJjo6WzYKoqO9KWF9fBzW50dHRoFveUDP6bSabimplZGQEy8vL/MrJyTHPzOfnp2wGqJr5+flwu92sn5KSgvr6enOY5+dn6TCPj4+sSTXz+vqq6V9dXZnDROLEVjXpMtbR0YG1tTW+HXg8HnMYOuRkm/+JQpOkM6irqwsTExNB70yGAt7f3+fTV5adnZ0hWD8JpW+AIZC5uTlZLEF7iZk4w+ivf2NjY5ienraVoYeHB+4l/icG4cT0sfly1dzcjL29PcNAOl3p4LR6uaKdSMVKS0PLLbrHqMEKCwsxOTnJXxlmc3MT7e3t+Pr6Es5EpgN1Z8pgWVnZNwx9IiDacgcHB5aeDuxA0dIUFBTwhVwF0TJjR1jmWMvP2jKDhtL6B38udfajf1tKAAAAAElFTkSuQmCC">
+      <!-- ./src  -->   
+      <script src="./src/combine.js"></script>
+      <script src="./src/build.js"></script>  
+      <link  href="./src/style.css" rel="stylesheet" />	  
+      <!-- ./lib -->
+	  <link  href="./lib/fonts/MaterialIcons.css" rel="stylesheet">
+      <script src="./lib/txml.js"></script>
+      <script src="./lib/m3u-parser.min.js"></script>
+      <script src="./lib/videojs/video.min.js"></script>
+      <link  href="./lib/videojs/video-js.css" rel="stylesheet" />
+	  <script src="./start.js"></script>  
+      <!-- CDN
+	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+      <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+      <script src="https://tnickel.de/js/txml.js" ></script>   
+      <script src="https://cdn.jsdelivr.net/npm/m3u-parser-generator@1/dist/browser-bundle.min.js" ></script>	  
+       -->     
+   </head>
+   <body>   
+      <span id ="loaderW" ></span>
+      <div class="perf" id="perf" style="margin: 10px;">
+        loading
+      </div>
+      <div class="list" id="list" ></div>
+      <div id="buttons_select" style="display: none;">
+         <button onclick="refreshProg()" class="fixedBtn" id="refreshBtn" title="Refresh" >
+         <span class="material-icons">refresh</span>
+         </button>
+         <select id="cs" class="custom-select" onchange="showCat(this.value)" >
+            <option disabled selected value>select</option>
+         </select>
+      </div>
+      <div id="playerBlock" class="playerBlock" >
+         <div id="playerBlockheader" >
+            <div id="playerTitle">PLayer</div>
+            <div class="buttonWindow" id="but" onclick="hide()" >
+               <i class="material-icons icons">expand_more</i>
+            </div>
+            <div class="buttonWindow" id="fullscreen" onclick='videojs("my-video").requestFullscreen();' >
+               <i class="material-icons icons">fullscreen </i>
+            </div>
+            <div class="buttonWindow" id="but" onclick='videojs("my-video").pause();document.getElementById("playerBlock").style.display ="none"' >
+               <i class="material-icons icons" >close</i>
+            </div>
+         </div>
+         <div id="hide" >
+            <video id="my-video" class="video-js" controls preload="auto" width="640" height="248"  data-setup="{}" ></video>
+         </div>
+      </div>
+   </body>
+</html>
