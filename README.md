@@ -1,5 +1,5 @@
 ### live программа EdemTv от epg.one 
- ### <pre>https://memeee.github.io/edemProgramm/index.html</pre>
+ ### [https://memeee.github.io/edemProgramm/index.html](https://memeee.github.io/edemProgramm/index.html "_blank")</pre>
  <em>* oбъединяет актуальный плейлист  с http://epg.one/epg.xml</em>
 #### Для просмотра трансляций в браузере : 
 * скачать репозиторий
