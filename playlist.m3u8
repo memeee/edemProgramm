@@ -3198,7 +3198,7 @@ http://localhost/iptv/secretkey/15132/index.m3u8
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/15131/index.m3u8
 #EXTINF:0 tvg-rec="7",Лапки Live HD
-#EXTGRP:р��звлекательные
+#EXTGRP:развлекательные
 http://localhost/iptv/secretkey/2028/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:развлекательные
@@ -5291,7 +5291,7 @@ http://localhost/iptv/secretkey/19237/index.m3u8
 #EXTINF:0 tvg-rec="0",Сургут 24
 #EXTGRP:другие
 http://localhost/iptv/secretkey/19238/index.m3u8
-#EXTINF:0 tvg-rec="0",Родной канал HD
+#EXTINF:0 tvg-rec="0",Родной ка��ал HD
 #EXTGRP:другие
 http://localhost/iptv/secretkey/19239/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый республиканский HD
@@ -7863,7 +7863,7 @@ http://localhost/iptv/secretkey/20220/index.m3u8
 #EXTGRP:взрослые
 http://localhost/iptv/secretkey/14158/index.m3u8
 #EXTINF:0 tvg-rec="0",Eromania 4K
-#EXTGRP:взрослые
+#EXTGRP:взро��лые
 http://localhost/iptv/secretkey/10049/index.m3u8
 #EXTINF:0 tvg-rec="3",Playboy
 #EXTGRP:взрослые
@@ -12656,7 +12656,7 @@ http://localhost/iptv/secretkey/9270/index.m3u8
 #EXTINF:0 tvg-rec="3",Нано ТВ HD orig
 #EXTGRP:HD Orig
 http://localhost/iptv/secretkey/9271/index.m3u8
-#EXTINF:0 tvg-rec="3",Точка отрыва orig
+#EXTINF:0 tvg-rec="3",Точка ��трыва orig
 #EXTGRP:HD Orig
 http://localhost/iptv/secretkey/9272/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда orig
