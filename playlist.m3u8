@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",Крик-ТВ
-#EXTGRP:новости
-http://localhost/iptv/secretkey/15012/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
-#EXTGRP:новости
-http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:новости
 http://localhost/iptv/secretkey/407/index.m3u8
 #EXTINF:0 tvg-rec="0",Экоспаскоми
 #EXTGRP:новости
 http://localhost/iptv/secretkey/17018/index.m3u8
+#EXTINF:0 tvg-rec="0",Крик-ТВ
+#EXTGRP:новости
+http://localhost/iptv/secretkey/15012/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
+#EXTGRP:новости
+http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК 50
 #EXTGRP:новости
 http://localhost/iptv/secretkey/10029/index.m3u8
@@ -2081,6 +2081,15 @@ http://localhost/iptv/secretkey/31720/index.m3u8
 #EXTINF:0 tvg-rec="0",ФАНТАСТИКА FHD (2.0)
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31722/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Michael Jackson
+#EXTGRP:музыка
+http://localhost/iptv/secretkey/31554/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV 00s
+#EXTGRP:музыка
+http://localhost/iptv/secretkey/31559/index.m3u8
+#EXTINF:0 tvg-rec="0",1HD Music Television
+#EXTGRP:музыка
+http://localhost/iptv/secretkey/17038/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/20029/index.m3u8
@@ -2096,15 +2105,6 @@ http://localhost/iptv/secretkey/17047/index.m3u8
 #EXTINF:0 tvg-rec="0",Sochi Music HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/16070/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Michael Jackson
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/31554/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV 00s
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/31559/index.m3u8
-#EXTINF:0 tvg-rec="0",1HD Music Television
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/17038/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV Фрэш HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/9053/index.m3u8
@@ -6935,6 +6935,12 @@ http://localhost/iptv/secretkey/20138/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Спорт 2 HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/20135/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:HD
+http://localhost/iptv/secretkey/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 HD
+#EXTGRP:HD
+http://localhost/iptv/secretkey/234/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Орел и решка
 #EXTGRP:HD
 http://localhost/iptv/secretkey/31476/index.m3u8
@@ -7271,9 +7277,6 @@ http://localhost/iptv/secretkey/226/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/227/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1 HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/228/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/229/index.m3u8
@@ -7289,9 +7292,6 @@ http://localhost/iptv/secretkey/232/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel Channel HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/233/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 2 HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/234/index.m3u8
 #EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/904/index.m3u8
@@ -10208,9 +10208,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15001/index.m3u8
@@ -10244,6 +10241,9 @@ http://localhost/iptv/secretkey/14232/index.m3u8
 #EXTINF:0 tvg-rec="0",Qadam TV KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
