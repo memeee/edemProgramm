@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",Крик-ТВ
-#EXTGRP:новости
-http://localhost/iptv/secretkey/15012/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
-#EXTGRP:новости
-http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:новости
 http://localhost/iptv/secretkey/407/index.m3u8
 #EXTINF:0 tvg-rec="0",Экоспаскоми
 #EXTGRP:новости
 http://localhost/iptv/secretkey/17018/index.m3u8
+#EXTINF:0 tvg-rec="0",Крик-ТВ
+#EXTGRP:новости
+http://localhost/iptv/secretkey/15012/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
+#EXTGRP:новости
+http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК 50
 #EXTGRP:новости
 http://localhost/iptv/secretkey/10029/index.m3u8
@@ -2075,9 +2075,6 @@ http://localhost/iptv/secretkey/31720/index.m3u8
 #EXTINF:0 tvg-rec="0",ФАНТАСТИКА FHD (2.0)
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31722/index.m3u8
-#EXTINF:0 tvg-rec="0",Europa Plus TV HD
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/20029/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV 80s
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/31558/index.m3u8
@@ -2099,6 +2096,9 @@ http://localhost/iptv/secretkey/31559/index.m3u8
 #EXTINF:0 tvg-rec="0",1HD Music Television
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/17038/index.m3u8
+#EXTINF:0 tvg-rec="0",Europa Plus TV HD
+#EXTGRP:музыка
+http://localhost/iptv/secretkey/20029/index.m3u8
 #EXTINF:0 tvg-rec="3",Bridge TV Фрэш HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/9053/index.m3u8
@@ -5522,33 +5522,6 @@ http://localhost/iptv/secretkey/20139/index.m3u8
 #EXTINF:0 tvg-rec="0",Среда HD
 #EXTGRP:другие
 http://localhost/iptv/secretkey/16002/index.m3u8
-#EXTINF:0 tvg-rec="0",Tring Sport 4 AL
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31566/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 6 GR
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31584/index.m3u8
-#EXTINF:0 tvg-rec="0",Arena Premium 2 RS
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31600/index.m3u8
-#EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31576/index.m3u8
-#EXTINF:0 tvg-rec="0",M4 Sport HU
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31593/index.m3u8
-#EXTINF:0 tvg-rec="0",Arena Sport 8 RS
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31609/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 2
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31569/index.m3u8
-#EXTINF:0 tvg-rec="0",Cosmote Sport 8 GR
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31586/index.m3u8
-#EXTINF:0 tvg-rec="0",Arena Sport 1 RS
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/31602/index.m3u8
 #EXTINF:0 tvg-rec="0",Viaplay Sports 1 UK
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/31561/index.m3u8
@@ -5672,6 +5645,33 @@ http://localhost/iptv/secretkey/31591/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 RS
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/31607/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 4 AL
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31566/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 6 GR
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31584/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 2 RS
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31600/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31576/index.m3u8
+#EXTINF:0 tvg-rec="0",M4 Sport HU
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31593/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 8 RS
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31609/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 2
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31569/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 8 GR
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31586/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 RS
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/31602/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/9334/index.m3u8
@@ -10286,12 +10286,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15001/index.m3u8
@@ -10322,6 +10316,12 @@ http://localhost/iptv/secretkey/16026/index.m3u8
 #EXTINF:0 tvg-rec="0",Jambyl KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
