@@ -5474,6 +5474,33 @@ http://localhost/iptv/secretkey/20139/index.m3u8
 #EXTINF:0 tvg-rec="0",Среда HD
 #EXTGRP:другие
 http://localhost/iptv/secretkey/16002/index.m3u8
+#EXTINF:0 tvg-rec="0",Старт Триумф HD
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/16034/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/9283/index.m3u8
+#EXTINF:0 tvg-rec="0",UFC Fight Pass
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/18169/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Arena HD 50 UK
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/9334/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/5042/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/20004/index.m3u8
+#EXTINF:0 tvg-rec="3",Game Show Channel HD IL
+#EXTGRP:спорт
+http://localhost/iptv/secretkey/2149/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/9289/index.m3u8
@@ -5507,33 +5534,6 @@ http://localhost/iptv/secretkey/9293/index.m3u8
 #EXTINF:0 tvg-rec="0",FightBox HD
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/20027/index.m3u8
-#EXTINF:0 tvg-rec="0",Старт Триумф HD
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/16034/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/9283/index.m3u8
-#EXTINF:0 tvg-rec="0",UFC Fight Pass
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/18169/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Arena HD 50 UK
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/9248/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/9334/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/5042/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/9308/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/20004/index.m3u8
-#EXTINF:0 tvg-rec="3",Game Show Channel HD IL
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/2149/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Eurasia HD orig
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/6541/index.m3u8
@@ -8579,21 +8579,21 @@ http://localhost/iptv/secretkey/15506/index.m3u8
 #EXTINF:0 tvg-rec="0",Fast Sports
 #EXTGRP:Հայկական
 http://localhost/iptv/secretkey/15507/index.m3u8
+#EXTINF:0 tvg-rec="0",Сфера ТВ HD UA
+#EXTGRP:українські
+http://localhost/iptv/secretkey/15008/index.m3u8
+#EXTINF:0 tvg-rec="0",ICTV 2 HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/15235/index.m3u8
+#EXTINF:0 tvg-rec="0",Lale HD UA
+#EXTGRP:українські
+http://localhost/iptv/secretkey/15006/index.m3u8
 #EXTINF:0 tvg-rec="0",НТН HD UA
 #EXTGRP:українські
 http://localhost/iptv/secretkey/15011/index.m3u8
 #EXTINF:0 tvg-rec="0",Наше Любимое Кино HD UA
 #EXTGRP:українські
 http://localhost/iptv/secretkey/15007/index.m3u8
-#EXTINF:0 tvg-rec="0",Сфера ТВ HD UA
-#EXTGRP:українські
-http://localhost/iptv/secretkey/15008/index.m3u8
-#EXTINF:0 tvg-rec="0",Lale HD UA
-#EXTGRP:українські
-http://localhost/iptv/secretkey/15006/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV 2 HD
-#EXTGRP:українські
-http://localhost/iptv/secretkey/15235/index.m3u8
 #EXTINF:0 tvg-rec="3",FilmBox
 #EXTGRP:українські
 http://localhost/iptv/secretkey/948/index.m3u8
@@ -9869,6 +9869,18 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14237/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
 #EXTINF:0 tvg-rec="0",Aqsham TV KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14223/index.m3u8
@@ -9893,18 +9905,6 @@ http://localhost/iptv/secretkey/15004/index.m3u8
 #EXTINF:0 tvg-rec="0",Айгак KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14237/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
