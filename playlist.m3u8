@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",Крик-ТВ
-#EXTGRP:новости
-http://localhost/iptv/secretkey/15012/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports News HQ HD 50 UK
 #EXTGRP:новости
 http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",Экоспаскоми
 #EXTGRP:новости
 http://localhost/iptv/secretkey/17018/index.m3u8
+#EXTINF:0 tvg-rec="0",Крик-ТВ
+#EXTGRP:новости
+http://localhost/iptv/secretkey/15012/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК 50
 #EXTGRP:новости
 http://localhost/iptv/secretkey/10029/index.m3u8
@@ -3236,9 +3236,6 @@ http://localhost/iptv/secretkey/31817/index.m3u8
 #EXTINF:0 tvg-rec="0",Уніaн HD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/31726/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Орел и решка
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/31476/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Маски Шоу
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31556/index.m3u8
@@ -3251,6 +3248,9 @@ http://localhost/iptv/secretkey/2054/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Каламбур
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31557/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Орел и решка
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/31476/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/14170/index.m3u8
@@ -10868,15 +10868,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="3",Qazaqstan
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
 #EXTINF:0 tvg-rec="0",Qadam TV KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15005/index.m3u8
@@ -10904,6 +10895,15 @@ http://localhost/iptv/secretkey/15002/index.m3u8
 #EXTINF:0 tvg-rec="0",Otyrar KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14237/index.m3u8
+#EXTINF:0 tvg-rec="3",Qazaqstan
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
@@ -11060,19 +11060,19 @@ http://localhost/iptv/secretkey/20206/index.m3u8
 #EXTINF:0 tvg-rec="0",Yoshlar HD UZ
 #EXTGRP:o'zbek
 http://localhost/iptv/secretkey/20208/index.m3u8
-#EXTINF:0 tvg-rec="3",Рен TV MD
+#EXTINF:0 tvg-rec="3",7TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2455/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal 3 MD
+#EXTINF:0 tvg-rec="3",Moldova TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2453/index.m3u8
-#EXTINF:0 tvg-rec="3",Publika TV
+#EXTINF:0 tvg-rec="3",Vocea Basarabiei MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2450/index.m3u8
-#EXTINF:0 tvg-rec="3",Moldova 1 HD MD
+#EXTINF:0 tvg-rec="3",Moldova 1 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2444/index.m3u8
-#EXTINF:0 tvg-rec="3",Moldova 2
+#EXTINF:0 tvg-rec="3",Moldova 2 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2445/index.m3u8
 #EXTINF:0 tvg-rec="3",Cinema 1 MD
@@ -11081,49 +11081,49 @@ http://localhost/iptv/secretkey/2447/index.m3u8
 #EXTINF:0 tvg-rec="3",N4 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2460/index.m3u8
-#EXTINF:0 tvg-rec="3",Familia MD
+#EXTINF:0 tvg-rec="3",GRT MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2448/index.m3u8
-#EXTINF:0 tvg-rec="3",Primul MD
+#EXTINF:0 tvg-rec="3",Agro TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2449/index.m3u8
 #EXTINF:0 tvg-rec="3",ATV Gagauzia MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2459/index.m3u8
-#EXTINF:0 tvg-rec="3",ITV Moldova
+#EXTINF:0 tvg-rec="3",Busuioc TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2461/index.m3u8
-#EXTINF:0 tvg-rec="3",Mega TV MD
+#EXTINF:0 tvg-rec="3",Euronews Romania MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2462/index.m3u8
-#EXTINF:0 tvg-rec="3",TVR1 HD
+#EXTINF:0 tvg-rec="3",TVR 1 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/5026/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal 5 MD
+#EXTINF:0 tvg-rec="3",Star TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2465/index.m3u8
 #EXTINF:0 tvg-rec="3",Tezaur MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2472/index.m3u8
-#EXTINF:0 tvg-rec="3",Noroc TV
+#EXTINF:0 tvg-rec="3",Noroc TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2473/index.m3u8
-#EXTINF:0 tvg-rec="3",Orizont TV MD
+#EXTINF:0 tvg-rec="3",Realitatea Live MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2467/index.m3u8
-#EXTINF:0 tvg-rec="3",Jurnal TV
+#EXTINF:0 tvg-rec="3",Jurnal TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2446/index.m3u8
-#EXTINF:0 tvg-rec="3",Prime 1 MD
+#EXTINF:0 tvg-rec="3",One TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2451/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal 2 MD
+#EXTINF:0 tvg-rec="3",NTS TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2452/index.m3u8
 #EXTINF:0 tvg-rec="3",TV8 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2454/index.m3u8
-#EXTINF:0 tvg-rec="3",ProTV Chisinau
+#EXTINF:0 tvg-rec="3",Pro TV Chisinau MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2456/index.m3u8
 #EXTINF:0 tvg-rec="3",Global 24 MD
@@ -11132,7 +11132,7 @@ http://localhost/iptv/secretkey/2457/index.m3u8
 #EXTINF:0 tvg-rec="3",TVC 21 MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2458/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ Exclusiv TV
+#EXTINF:0 tvg-rec="3",Exclusiv TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2463/index.m3u8
 #EXTINF:0 tvg-rec="3",TVR Moldova MD
@@ -11144,13 +11144,13 @@ http://localhost/iptv/secretkey/2466/index.m3u8
 #EXTINF:0 tvg-rec="3",Disney MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2468/index.m3u8
-#EXTINF:0 tvg-rec="3",Gurinel TV
+#EXTINF:0 tvg-rec="3",Gurinel TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2469/index.m3u8
 #EXTINF:0 tvg-rec="3",Zona M MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2470/index.m3u8
-#EXTINF:0 tvg-rec="3",WeSport MD
+#EXTINF:0 tvg-rec="3",We Sport TV MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/2471/index.m3u8
 #EXTINF:0 tvg-rec="3",TVR 1 RO
@@ -11489,34 +11489,34 @@ http://localhost/iptv/secretkey/19439/index.m3u8
 #EXTINF:0 tvg-rec="0",Tezaur HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19440/index.m3u8
-#EXTINF:0 tvg-rec="0",Canal 2 HD MD
+#EXTINF:0 tvg-rec="0",Setanta Sports HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19441/index.m3u8
-#EXTINF:0 tvg-rec="0",Orizont TV HD MD
+#EXTINF:0 tvg-rec="0",Realitatea Live HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19442/index.m3u8
 #EXTINF:0 tvg-rec="0",Jurnal TV HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19443/index.m3u8
-#EXTINF:0 tvg-rec="0",Publika TV HD MD
+#EXTINF:0 tvg-rec="0",Vocea Basarabiei HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19444/index.m3u8
 #EXTINF:0 tvg-rec="0",Cinema 1 HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19445/index.m3u8
-#EXTINF:0 tvg-rec="0",Prime HD MD
+#EXTINF:0 tvg-rec="0",One TV HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19446/index.m3u8
-#EXTINF:0 tvg-rec="0",Primul HD MD
+#EXTINF:0 tvg-rec="0",Agro TV HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19448/index.m3u8
 #EXTINF:0 tvg-rec="0",TV8 HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19449/index.m3u8
-#EXTINF:0 tvg-rec="0",Familia HD MD
+#EXTINF:0 tvg-rec="0",Global 24 HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19450/index.m3u8
-#EXTINF:0 tvg-rec="0",ProTV Chisinau HD MD
+#EXTINF:0 tvg-rec="0",Pro TV Chisinau HD MD
 #EXTGRP:moldovenească
 http://localhost/iptv/secretkey/19452/index.m3u8
 #EXTINF:0 tvg-rec="0",Akilli TV TR
