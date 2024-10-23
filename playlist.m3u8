@@ -299,9 +299,6 @@ http://localhost/iptv/secretkey/9123/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Вестерн
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31553/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Король и Шут
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31555/index.m3u8
 #EXTINF:0 tvg-rec="0",Советское кино
 #EXTGRP:кино
 http://localhost/iptv/secretkey/6545/index.m3u8
@@ -3191,12 +3188,6 @@ http://localhost/iptv/secretkey/31817/index.m3u8
 #EXTINF:0 tvg-rec="0",Уніaн HD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/31726/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Маски Шоу
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/31556/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Lo-Fi HD
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/31545/index.m3u8
 #EXTINF:0 tvg-rec="3",Epic HD
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/2054/index.m3u8
@@ -3206,6 +3197,12 @@ http://localhost/iptv/secretkey/31557/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Орел и решка
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31476/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Маски Шоу
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/31556/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Lo-Fi HD
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/31545/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/14170/index.m3u8
@@ -7250,6 +7247,30 @@ http://localhost/iptv/secretkey/31612/index.m3u8
 #EXTINF:0 tvg-rec="0",Суспільне Спорт HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/31751/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 7
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31450/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 8
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31451/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 9
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31452/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 10
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31453/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 11
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31454/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 12
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31457/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 13
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31458/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 14
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31459/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 1
 #EXTGRP:HD
 http://localhost/iptv/secretkey/31469/index.m3u8
@@ -8165,7 +8186,7 @@ http://localhost/iptv/secretkey/11100/index.m3u8
 #EXTINF:0 tvg-rec="7",Serial HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/11101/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Smile HD
+#EXTINF:0 tvg-rec="0",Первый музыкальный HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/14142/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный HD BY
@@ -9482,6 +9503,30 @@ http://localhost/iptv/secretkey/6327/index.m3u8
 #EXTINF:0 tvg-rec="3",Бігуді UA
 #EXTGRP:українські
 http://localhost/iptv/secretkey/6330/index.m3u8
+#EXTINF:0 tvg-rec="0",5 Канал HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31789/index.m3u8
+#EXTINF:0 tvg-rec="0",AMC
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31792/index.m3u8
+#EXTINF:0 tvg-rec="0",6 Соток
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31790/index.m3u8
+#EXTINF:0 tvg-rec="0",Bolt HD UA
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31793/index.m3u8
+#EXTINF:0 tvg-rec="0",Київ HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31781/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31794/index.m3u8
+#EXTINF:0 tvg-rec="0",1+1 Україна HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31784/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Hit HD
+#EXTGRP:українські
+http://localhost/iptv/secretkey/31795/index.m3u8
 #EXTINF:0 tvg-rec="3",NIKI Kids HD UA
 #EXTGRP:українські
 http://localhost/iptv/secretkey/6332/index.m3u8
@@ -10688,9 +10733,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Qyzylorda KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14233/index.m3u8
 #EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/16025/index.m3u8
@@ -10724,6 +10766,9 @@ http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15001/index.m3u8
+#EXTINF:0 tvg-rec="0",Qyzylorda KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14233/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
@@ -13676,6 +13721,9 @@ http://localhost/iptv/secretkey/31620/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports 2 UHD UK
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31468/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 15
+#EXTGRP:4K
+http://localhost/iptv/secretkey/31463/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports F1 UHD UK
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31465/index.m3u8
@@ -13853,27 +13901,3 @@ http://localhost/iptv/secretkey/20157/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Remast 4K
 #EXTGRP:4K
 http://localhost/iptv/secretkey/20158/index.m3u8
-#EXTINF:0 tvg-rec="0",Київ HD
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31781/index.m3u8
-#EXTINF:0 tvg-rec="0",1+1 Україна HD
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31784/index.m3u8
-#EXTINF:0 tvg-rec="0",5 Канал HD
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31789/index.m3u8
-#EXTINF:0 tvg-rec="0",6 Соток
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31790/index.m3u8
-#EXTINF:0 tvg-rec="0",AMC
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31792/index.m3u8
-#EXTINF:0 tvg-rec="0",Bolt HD UA
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31793/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ HD
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31794/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ Hit HD
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31795/index.m3u8
