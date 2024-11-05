@@ -7271,6 +7271,51 @@ http://localhost/iptv/secretkey/31458/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 14
 #EXTGRP:HD
 http://localhost/iptv/secretkey/31459/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 15
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31463/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 16
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31522/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 17
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31523/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 18
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31524/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 19
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31525/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 20
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31526/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 21
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31527/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 22
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31528/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 23
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31529/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 24
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31530/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 25
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31531/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 26
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31532/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 27
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31533/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 28
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31534/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 29
+#EXTGRP:HD
+http://localhost/iptv/secretkey/31535/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery+ Event 1
 #EXTGRP:HD
 http://localhost/iptv/secretkey/31469/index.m3u8
@@ -10733,30 +10778,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Айгак KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14237/index.m3u8
-#EXTINF:0 tvg-rec="3",Qazaqstan
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
-#EXTINF:0 tvg-rec="0",Ontustik KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="0",Qyzylorda KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14233/index.m3u8
@@ -10769,6 +10790,30 @@ http://localhost/iptv/secretkey/14231/index.m3u8
 #EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15004/index.m3u8
+#EXTINF:0 tvg-rec="0",Айгак KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15002/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14237/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="3",Qazaqstan
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ontustik KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
@@ -13721,9 +13766,6 @@ http://localhost/iptv/secretkey/31620/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports 2 UHD UK
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31468/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 15
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31463/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports F1 UHD UK
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31465/index.m3u8
