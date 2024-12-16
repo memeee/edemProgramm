@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
-#EXTGRP:новости
-http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",Экоспаскоми
 #EXTGRP:новости
 http://localhost/iptv/secretkey/17018/index.m3u8
 #EXTINF:0 tvg-rec="0",Крик-ТВ
 #EXTGRP:новости
 http://localhost/iptv/secretkey/15012/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:новости
+http://localhost/iptv/secretkey/9314/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК HD 50
 #EXTGRP:новости
 http://localhost/iptv/secretkey/10029/index.m3u8
@@ -329,21 +329,9 @@ http://localhost/iptv/secretkey/31660/index.m3u8
 #EXTINF:0 tvg-rec="0",Cobra Drama HD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31673/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Show HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31669/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV New Films HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31667/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Масяня
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31670/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Магнитофон
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31645/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Kung Fu
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31668/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Movie Hits
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31644/index.m3u8
@@ -743,9 +731,6 @@ http://localhost/iptv/secretkey/2491/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Arts HD DE
 #EXTGRP:кино
 http://localhost/iptv/secretkey/2494/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Hits HD DE
-#EXTGRP:кино
-http://localhost/iptv/secretkey/2486/index.m3u8
 #EXTINF:0 tvg-rec="3",Зал 1
 #EXTGRP:кино
 http://localhost/iptv/secretkey/2568/index.m3u8
@@ -1475,63 +1460,6 @@ http://localhost/iptv/secretkey/14228/index.m3u8
 #EXTINF:0 tvg-rec="0",Твое ТВ HD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/14229/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH SERIES HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14240/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH HEROES HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14242/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH EPOCH HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14243/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH FRESH HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14244/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH MIX 3D
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14246/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH SPIRIT HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/14249/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH FUTURE HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/15103/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH ADULT HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/15166/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH RUSSIAN HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/16060/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH NOIR HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/16061/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH FRESH HDR
-#EXTGRP:кино
-http://localhost/iptv/secretkey/16066/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH ЧБУ HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/16142/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH VHS UHD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/17058/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH UHD HDR
-#EXTGRP:кино
-http://localhost/iptv/secretkey/17059/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH ORIG HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19310/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH STANDUP HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19311/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH LO FI HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19312/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH BRAIN HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19404/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH ANIME HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19405/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Media HD OLD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/15024/index.m3u8
@@ -1868,45 +1796,6 @@ http://localhost/iptv/secretkey/18136/index.m3u8
 #EXTINF:0 tvg-rec="0",Кинозал 12
 #EXTGRP:кино
 http://localhost/iptv/secretkey/18137/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Criminal
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18140/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV History
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18142/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Comedy
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18143/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Fantazy
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18144/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Horror
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18145/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Cinema Best
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18147/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Music
-#EXTGRP:кино
-http://localhost/iptv/secretkey/18148/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Peters Pop Show
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19270/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Serial
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19271/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Netflix
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19272/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Cinema 60 fps
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19315/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Вторая Мировая
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19316/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Сказки СССР
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19317/index.m3u8
 #EXTINF:0 tvg-rec="0",Миллет HD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/19258/index.m3u8
@@ -1946,15 +1835,9 @@ http://localhost/iptv/secretkey/19420/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Cyber HD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/19421/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Simpsons UA
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19395/index.m3u8
 #EXTINF:0 tvg-rec="0",Insomnia HD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/19398/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV UA
-#EXTGRP:кино
-http://localhost/iptv/secretkey/19399/index.m3u8
 #EXTINF:0 tvg-rec="0",MYTV
 #EXTGRP:кино
 http://localhost/iptv/secretkey/19407/index.m3u8
@@ -2153,9 +2036,6 @@ http://localhost/iptv/secretkey/31622/index.m3u8
 #EXTINF:0 tvg-rec="0",VB Yo! MTV HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/31623/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Hip Hop
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/31672/index.m3u8
 #EXTINF:0 tvg-rec="0",Europa Plus TV HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/20029/index.m3u8
@@ -2324,15 +2204,6 @@ http://localhost/iptv/secretkey/14162/index.m3u8
 #EXTINF:0 tvg-rec="0",Retro Music TV HD CZ
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/14169/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH CONCERT HD
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/14241/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH DANCE HD
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/14250/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH CLASSIC HD
-#EXTGRP:музыка
-http://localhost/iptv/secretkey/15104/index.m3u8
 #EXTINF:0 tvg-rec="0",M1 HD
 #EXTGRP:музыка
 http://localhost/iptv/secretkey/15016/index.m3u8
@@ -2606,9 +2477,6 @@ http://localhost/iptv/secretkey/6009/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Nature
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/31618/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Кулинар
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/31683/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan Фитнес
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/31629/index.m3u8
@@ -2636,9 +2504,6 @@ http://localhost/iptv/secretkey/16087/index.m3u8
 #EXTINF:0 tvg-rec="0",The Explorers
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/16035/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky History HD UK
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/16037/index.m3u8
 #EXTINF:0 tvg-rec="3",Югра Тревел HD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/5038/index.m3u8
@@ -2843,12 +2708,6 @@ http://localhost/iptv/secretkey/7348/index.m3u8
 #EXTINF:0 tvg-rec="0",Моя Стихия HD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/7349/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH NATURE 4K
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/14247/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH NATURE 4K HDR
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/14248/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty BBC FHD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/15108/index.m3u8
@@ -2900,9 +2759,6 @@ http://localhost/iptv/secretkey/17041/index.m3u8
 #EXTINF:0 tvg-rec="0",ZDF Info HD DE
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/17042/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH DOC UHD
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/17053/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Travel HD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/17063/index.m3u8
@@ -2921,12 +2777,6 @@ http://localhost/iptv/secretkey/18196/index.m3u8
 #EXTINF:0 tvg-rec="0",Рыболов HD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/19254/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH NATURE FHD
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/19309/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Docu
-#EXTGRP:познавательные
-http://localhost/iptv/secretkey/19314/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Experiment HD
 #EXTGRP:познавательные
 http://localhost/iptv/secretkey/19412/index.m3u8
@@ -2969,9 +2819,6 @@ http://localhost/iptv/secretkey/15027/index.m3u8
 #EXTINF:0 tvg-rec="0",Карусель HD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/20012/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Мульт HD UA
-#EXTGRP:детские
-http://localhost/iptv/secretkey/31671/index.m3u8
 #EXTINF:0 tvg-rec="0",КиноМульт
 #EXTGRP:детские
 http://localhost/iptv/secretkey/20009/index.m3u8
@@ -3131,9 +2978,6 @@ http://localhost/iptv/secretkey/14178/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
 #EXTGRP:детские
 http://localhost/iptv/secretkey/19433/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH Bunny HD
-#EXTGRP:детские
-http://localhost/iptv/secretkey/14239/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Пиксар FHD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/15092/index.m3u8
@@ -3302,9 +3146,6 @@ http://localhost/iptv/secretkey/7251/index.m3u8
 #EXTINF:0 tvg-rec="7",НАЗАД В 90-e
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/11067/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH MAN HD
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/14245/index.m3u8
 #EXTINF:0 tvg-rec="0",Перец International
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/15227/index.m3u8
@@ -6695,9 +6536,6 @@ http://localhost/iptv/secretkey/14190/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 6
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/14191/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH FIGHT HD
-#EXTGRP:спорт
-http://localhost/iptv/secretkey/15097/index.m3u8
 #EXTINF:0 tvg-rec="0",Живи Активно HD
 #EXTGRP:спорт
 http://localhost/iptv/secretkey/15143/index.m3u8
@@ -8312,9 +8150,6 @@ http://localhost/iptv/secretkey/17029/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Шоу FHD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/17030/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH DOC HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/18172/index.m3u8
 #EXTINF:0 tvg-rec="0",Киносерия HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/19229/index.m3u8
@@ -9131,12 +8966,6 @@ http://localhost/iptv/secretkey/18076/index.m3u8
 #EXTINF:0 tvg-rec="0",BCU Charm HD
 #EXTGRP:взрослые
 http://localhost/iptv/secretkey/18053/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV XXX
-#EXTGRP:взрослые
-http://localhost/iptv/secretkey/19401/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH SEX VR
-#EXTGRP:взрослые
-http://localhost/iptv/secretkey/19406/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan ExExEx
 #EXTGRP:взрослые
 http://localhost/iptv/secretkey/20089/index.m3u8
@@ -10784,6 +10613,21 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
+#EXTINF:0 tvg-rec="0",Ontustik KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15001/index.m3u8
+#EXTINF:0 tvg-rec="0",Qyzylorda KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14233/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16025/index.m3u8
+#EXTINF:0 tvg-rec="0",Ulytau KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14231/index.m3u8
+#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15004/index.m3u8
 #EXTINF:0 tvg-rec="0",Айгак KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15002/index.m3u8
@@ -10805,21 +10649,6 @@ http://localhost/iptv/secretkey/15005/index.m3u8
 #EXTINF:0 tvg-rec="0",Aqsham TV KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14223/index.m3u8
-#EXTINF:0 tvg-rec="0",Ontustik KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15001/index.m3u8
-#EXTINF:0 tvg-rec="0",Qyzylorda KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14233/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16025/index.m3u8
-#EXTINF:0 tvg-rec="0",Ulytau KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14231/index.m3u8
-#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15004/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
@@ -13775,9 +13604,6 @@ http://localhost/iptv/secretkey/31467/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31665/index.m3u8
-#EXTINF:0 tvg-rec="0",Prokop TV Cinema 4K
-#EXTGRP:4K
-http://localhost/iptv/secretkey/31666/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Serial 4K
 #EXTGRP:4K
 http://localhost/iptv/secretkey/31657/index.m3u8
