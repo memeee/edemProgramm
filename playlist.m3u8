@@ -326,9 +326,6 @@ http://localhost/iptv/secretkey/31658/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31660/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Drama HD
-#EXTGRP:кино
-http://localhost/iptv/secretkey/31673/index.m3u8
 #EXTINF:0 tvg-rec="0",VeleS Магнитофон
 #EXTGRP:кино
 http://localhost/iptv/secretkey/31645/index.m3u8
@@ -3044,6 +3041,12 @@ http://localhost/iptv/secretkey/31817/index.m3u8
 #EXTINF:0 tvg-rec="0",Уніaн HD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/31726/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Каламбур
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/31557/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Орел и решка
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/31476/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Маски Шоу
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31556/index.m3u8
@@ -3053,12 +3056,6 @@ http://localhost/iptv/secretkey/31545/index.m3u8
 #EXTINF:0 tvg-rec="3",Epic HD
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/2054/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Каламбур
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/31557/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Орел и решка
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/31476/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/14170/index.m3u8
@@ -8246,18 +8243,6 @@ http://localhost/iptv/secretkey/20210/index.m3u8
 #EXTINF:0 tvg-rec="0",KION Хит HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/20211/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Comedy HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/20212/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Detektiv HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/20213/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Melodrama HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/20214/index.m3u8
-#EXTINF:0 tvg-rec="0",Cobra Triller HD
-#EXTGRP:HD
-http://localhost/iptv/secretkey/20215/index.m3u8
 #EXTINF:0 tvg-rec="0",Eye Family HD
 #EXTGRP:HD
 http://localhost/iptv/secretkey/20216/index.m3u8
@@ -10625,18 +10610,27 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16025/index.m3u8
+#EXTINF:0 tvg-rec="0",Ulytau KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14231/index.m3u8
+#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15004/index.m3u8
 #EXTINF:0 tvg-rec="0",Айгак KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15002/index.m3u8
 #EXTINF:0 tvg-rec="0",Otyrar KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14237/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
 #EXTINF:0 tvg-rec="3",Qazaqstan
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
 #EXTINF:0 tvg-rec="0",Jambyl KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14232/index.m3u8
@@ -10652,15 +10646,6 @@ http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="0",Qyzylorda KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14233/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16025/index.m3u8
-#EXTINF:0 tvg-rec="0",Ulytau KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14231/index.m3u8
-#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15004/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
