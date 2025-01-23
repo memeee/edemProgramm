@@ -3041,6 +3041,9 @@ http://localhost/iptv/secretkey/31817/index.m3u8
 #EXTINF:0 tvg-rec="0",Уніaн HD
 #EXTGRP:детские
 http://localhost/iptv/secretkey/31726/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic HD
+#EXTGRP:развлекательные
+http://localhost/iptv/secretkey/2054/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Каламбур
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31557/index.m3u8
@@ -3053,9 +3056,6 @@ http://localhost/iptv/secretkey/31556/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Lo-Fi HD
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/31545/index.m3u8
-#EXTINF:0 tvg-rec="3",Epic HD
-#EXTGRP:развлекательные
-http://localhost/iptv/secretkey/2054/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/14170/index.m3u8
@@ -10610,24 +10610,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movies Colection
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="3",Qazaqstan
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
-#EXTINF:0 tvg-rec="0",Ontustik KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="0",Qyzylorda KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14233/index.m3u8
@@ -10646,6 +10628,24 @@ http://localhost/iptv/secretkey/15002/index.m3u8
 #EXTINF:0 tvg-rec="0",Otyrar KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14237/index.m3u8
+#EXTINF:0 tvg-rec="3",Qazaqstan
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ontustik KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
