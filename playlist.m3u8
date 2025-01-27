@@ -3083,7 +3083,7 @@ http://localhost/iptv/secretkey/7251/index.m3u8
 #EXTINF:0 tvg-rec="7",StrahTV Назад в 90-e
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/11067/index.m3u8
-#EXTINF:0 tvg-rec="0",EU Music FHD UA
+#EXTINF:0 tvg-rec="0",Перец
 #EXTGRP:развлекательные
 http://localhost/iptv/secretkey/15227/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС International
@@ -10229,6 +10229,21 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movie Collection GE
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
+#EXTINF:0 tvg-rec="3",Qazaqstan KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15001/index.m3u8
@@ -10250,21 +10265,6 @@ http://localhost/iptv/secretkey/15002/index.m3u8
 #EXTINF:0 tvg-rec="0",Otyrar KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14237/index.m3u8
-#EXTINF:0 tvg-rec="3",Qazaqstan KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
