@@ -9884,30 +9884,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movie Collection GE
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Айгак KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14237/index.m3u8
-#EXTINF:0 tvg-rec="3",Qazaqstan KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/2210/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14223/index.m3u8
-#EXTINF:0 tvg-rec="0",Ontustik KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="0",Qyzylorda KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/14233/index.m3u8
@@ -9920,6 +9896,30 @@ http://localhost/iptv/secretkey/14231/index.m3u8
 #EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15004/index.m3u8
+#EXTINF:0 tvg-rec="0",Айгак KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15002/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14237/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/16026/index.m3u8
+#EXTINF:0 tvg-rec="3",Qazaqstan KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/2210/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ontustik KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15001/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
