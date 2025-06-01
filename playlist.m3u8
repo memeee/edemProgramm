@@ -9872,12 +9872,6 @@ http://localhost/iptv/secretkey/20150/index.m3u8
 #EXTINF:0 tvg-rec="0",Silk Movie Collection GE
 #EXTGRP:ქართული
 http://localhost/iptv/secretkey/20151/index.m3u8
-#EXTINF:0 tvg-rec="0",Айгак KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-#EXTGRP:қазақстан
-http://localhost/iptv/secretkey/14237/index.m3u8
 #EXTINF:0 tvg-rec="3",Qazaqstan KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2210/index.m3u8
@@ -9908,6 +9902,12 @@ http://localhost/iptv/secretkey/14231/index.m3u8
 #EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/15004/index.m3u8
+#EXTINF:0 tvg-rec="0",Айгак KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/15002/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+#EXTGRP:қазақстан
+http://localhost/iptv/secretkey/14237/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 #EXTGRP:қазақстан
 http://localhost/iptv/secretkey/2211/index.m3u8
