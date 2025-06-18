@@ -13,7 +13,7 @@
 (async () => {
 
 	await combine({	
-		url_EPG:  "https://memeee.github.io/edemProgramm/epg.xml",  // Access-Control-Allow-Origin: * 
+		url_EPG:  "http://ru.epg.one/epg.xml",  // Access-Control-Allow-Origin: * 
 		url_M3u8: "https://memeee.github.io/edemProgramm/playlist.m3u8",  //Access-Control-Allow-Origin: *
 	});
 	
